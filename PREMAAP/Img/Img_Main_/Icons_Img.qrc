@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>icon_Pacientes2.png</file>
+    <file>icon_NovaConsulta.png</file>
+    <file>icon_Prontuario.png</file>
+    <file>icon_Salvar.png</file>
+    <file>icon_Voltar.png</file>
+    <file>icon_AdicionarPaciente.png</file>
+    <file>Design sem nome.png</file>
+    <file>icon_Pacientes.png</file>
+    <file>icon_InicioAberto.png</file>
+    <file>icon_InicioFechado.png</file>
+    <file>icon_Menu.png</file>
+  </qresource>
+</RCC>
